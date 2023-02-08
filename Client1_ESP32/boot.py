@@ -22,7 +22,7 @@ gc.collect()
 ssid = '<replace>'
 password = '<relace>'
 
-# MQTT BROKER IP ADDRESS: running on kali linux vm in my case
+# MQTT BROKER IP ADDRESS (test broker)
 mqtt_server = 'test.mosquitto.org'
 
 # ESP's ID
