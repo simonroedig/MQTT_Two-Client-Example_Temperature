@@ -19,8 +19,8 @@ esp.osdebug(None)
 import gc
 gc.collect()
 
-ssid = 'FBISurveillanceVan'
-password = '6967423068600133'
+ssid = '<replace>'
+password = '<relace>'
 
 # MQTT BROKER IP ADDRESS: running on kali linux vm in my case
 mqtt_server = 'test.mosquitto.org'
