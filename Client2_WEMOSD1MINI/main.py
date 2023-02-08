@@ -38,7 +38,6 @@ while True:
   print("Local print: Temperatur: ", d.temperature())
   print("Local pirnt: Humidity: ", d.humidity())
   """
-  
   try:
     new_message = client.check_msg()
     if new_message != 'None':
